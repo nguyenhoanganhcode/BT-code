@@ -1,0 +1,4 @@
+C:\Bai code\program.cs\program.cs\obj\Debug\net6.0\program.cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Bai code\program.cs\program.cs\obj\Debug\net6.0\program.cs.AssemblyInfoInputs.cache
+C:\Bai code\program.cs\program.cs\obj\Debug\net6.0\program.cs.AssemblyInfo.cs
+C:\Bai code\program.cs\program.cs\obj\Debug\net6.0\program.cs.csproj.CoreCompileInputs.cache
